@@ -1,0 +1,57 @@
+2018/06/08, 18:45 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+2018/06/08, 18:45 - Brenton: Boiiiiiiiiii
+2018/06/08, 18:45 - Brenton: It's Brenton btw
+2018/06/08, 19:41 - Chace Green: Aweee
+2018/06/08, 19:41 - Chace Green: Rush buddies
+2018/06/08, 19:44 - Brenton: 💪💪💪 I'll send you some links on slack. What time are you heading in tomorrow?
+2018/06/08, 19:44 - Chace Green: Should get there before 8
+2018/06/08, 19:44 - Chace Green: You?
+2018/06/08, 19:45 - Chace Green: And sweet thanks
+2018/06/08, 19:45 - Chace Green: I have some experience with ncurses too which should help
+2018/06/08, 19:45 - Brenton: Ok sweet. Should be around 9.
+2018/06/08, 19:45 - Brenton: Oh sick
+2018/06/08, 19:45 - Chace Green: Sweeet
+2018/06/08, 19:46 - Brenton: Have you had a look at the pdf? The general requirements look quite simple. If we get the mvp out tomorrow we can spice it up tomorrow afternoon and Sunday.
+2018/06/08, 19:46 - Chace Green: Yeah mvp doesn't seem to bad actually
+2018/06/08, 19:46 - Chace Green: Sounds good to me
+2018/06/08, 19:47 - Brenton: 💪
+2018/06/08, 19:47 - Chace Green: See ya tomorrow then
+2018/06/08, 19:47 - Brenton: Sweet yeah man
+2018/06/09, 18:02 - Chace Green: I'm pushing to add the top and bottom soon just quickly gonna fix the player boundaries
+2018/06/09, 18:02 - Brenton: Ok sweet 🙌
+2018/06/09, 18:03 - Chace Green: I just realized how often our loop is running lol
+2018/06/09, 18:04 - Brenton: Is it super often? 😄
+2018/06/09, 18:04 - Chace Green: I only change the character order after 100 loops
+2018/06/09, 18:04 - Chace Green: 😂
+2018/06/09, 18:04 - Chace Green: you'll see 😂
+2018/06/09, 18:05 - Brenton: Damn 😂
+2018/06/09, 18:17 - Chace Green: Cool pushed
+2018/06/09, 18:22 - Brenton: Sweet I'll put in some hours now
+2018/06/09, 19:37 - Brenton: The scrolling top and bottom is legit 🙌. It looks like it should work 100% from the code but it doesn't seem to be displaying the last set.
+
+Seems to only show:
+\_/
+
+Then:
+_/
+
+Then back to:
+\_/
+
+But I can't see anything wrong with the code 🤔
+2018/06/09, 19:37 - Chace Green: I don't think i understand what you saying
+2018/06/09, 19:38 - Brenton: <Media omitted>
+2018/06/09, 19:40 - Chace Green: I see
+2018/06/09, 19:40 - Chace Green: Will fix it tomorrow
+2018/06/09, 19:41 - Brenton: I'll try tonight as well 🙌
+2018/06/09, 19:41 - Chace Green: It should be something small
+2018/06/09, 19:41 - Chace Green: Dont over do yourself tonight 😂
+2018/06/09, 19:43 - Brenton: Don't tell me how to live my life. I'm going to fuck up some bullets and collisions (hopefully 😂)
+2018/06/09, 19:43 - Chace Green: 😂
+2018/06/09, 19:43 - Chace Green: Good luck
+2018/06/09, 19:43 - Chace Green: Im gonna try sleep while richard annoys the fuck out of me
+2018/06/09, 19:44 - Brenton: 😂 Then Good luck to you as well 😅
+2018/06/10, 08:01 - Brenton: If you get in before me: pull, compile, hit spacebar.
+2018/06/10, 08:14 - Chace Green: Yewwww
+2018/06/10, 08:14 - Chace Green: Will check
+2018/06/10, 08:14 - Chace Green: Still not in yet
